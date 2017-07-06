@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/QtQuick/Enterprise/VirtualKeyboard/content/layouts/en_GB">
+        <file alias="dialpad.qml">C:/Users/db/Desktop/virtualkeyboard/content/layouts/en_GB/dialpad.qml</file>
+        <file alias="digits.qml">C:/Users/db/Desktop/virtualkeyboard/content/layouts/en_GB/digits.qml</file>
+        <file alias="handwriting.qml">C:/Users/db/Desktop/virtualkeyboard/content/layouts/en_GB/handwriting.qml</file>
+        <file alias="numbers.qml">C:/Users/db/Desktop/virtualkeyboard/content/layouts/en_GB/numbers.qml</file>
+        <file alias="symbols.qml">C:/Users/db/Desktop/virtualkeyboard/content/layouts/en_GB/symbols.qml</file>
+    </qresource>
+</RCC>

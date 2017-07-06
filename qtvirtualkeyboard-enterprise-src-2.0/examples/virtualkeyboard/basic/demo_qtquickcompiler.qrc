@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="content/FloatingButton_Active.svg">content/FloatingButton_Active.svg</file>
+        <file alias="content/FloatingButton_Available.svg">content/FloatingButton_Available.svg</file>
+        <file alias="content/FloatingButton_Unavailable.svg">content/FloatingButton_Unavailable.svg</file>
+    </qresource>
+</RCC>
